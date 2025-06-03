@@ -13,6 +13,9 @@ Managed wrapper for the Text Object Model (TOM/TOM2).
 - `TextPara` (`ITextPara`)
 - `TextStoryRanges` (`ITextStoryRanges`)
 
+## Why use TOM?
+The Text Object Model exposes some additional features when compared to working directly with a `RichTextBox` control in Windows Forms, as well as offering better performance when manipulating documents.
+
 ## TOM 2 support
 The latest version includes support for TOM 2 (available on Windows 8 and higher). Each of the above classes wraps both the TOM 1 and TOM 2 interfaces (e.g. `ITextDocument` and `ITextDocument2`), and will automatically select the best available version. In addition, TOM 2 adds the following classes:
 
@@ -28,6 +31,11 @@ The latest version includes support for TOM 2 (available on Windows 8 and higher
 - .NET Framework 4.8
 - Windows Vista or higher
 - Visual C++ Redistributable for Visual Studio v14
+
+## Instructions
+- If you don't want to build from source, download the binaries for the latest release.
+- To use the TOM classes in your code, simply reference the `ManagedTOM2.dll` assembly (x86 or x64) in your project.
+- IntelliSense documentation is included, as well as a compiled help (`.chm`) file for easy API reference.
 
 ## Frequently Asked Questions
 - *What are the requirements for accessing the TOM2 functionality?*<br />
