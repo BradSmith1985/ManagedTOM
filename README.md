@@ -24,7 +24,7 @@ The latest version includes support for TOM 2 (available on Windows 8 and higher
 - `TextStrings` (`ITextStrings`)
 
 ## Also included
-- `RichTextBoxEx` – an extended version of the Windows Forms RichTextBox control which automatically loads the newest available version of the native RichEdit control (required for advanced functionality).
+- `RichTextBoxEx` – an extended version of the Windows Forms `RichTextBox` control which automatically loads the newest available version of the native RichEdit control (required for advanced functionality).
 - `TextExtensions` – provides extension methods for working with ranges using a more familiar syntax, as well as conversion of math text to OMML and MathML.
 
 ## Requirements
