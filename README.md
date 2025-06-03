@@ -1,7 +1,7 @@
 # ManagedTOM
-Managed wrapper for the Text Object Model (TOM/TOM2).
+<small>*Previously known as **TOM Classes for .NET***</small>
 
-*Previously known as **TOM Classes for .NET***
+A managed wrapper for the Text Object Model (TOM/TOM2).
 
 ## About
 **ManagedTOM** is a managed assembly, written in C++/CLI, that provides a set of wrapper classes for the Text Object Model (TOM) interfaces. This allows .NET developers to access the functionality of the native `ITextDocument` interface without the need to use dynamic programming or COM interop. The assembly includes the following classes:
