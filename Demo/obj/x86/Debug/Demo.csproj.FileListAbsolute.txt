@@ -1,0 +1,11 @@
+D:\Code\ManagedTOM\Demo\obj\x86\Debug\Demo.csproj.AssemblyReference.cache
+D:\Code\ManagedTOM\Demo\obj\x86\Debug\Demo.DemoForm.resources
+D:\Code\ManagedTOM\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+D:\Code\ManagedTOM\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.cache
+D:\Code\ManagedTOM\Demo\obj\x86\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Code\ManagedTOM\bin\Debug\x86\Demo.exe.config
+D:\Code\ManagedTOM\bin\Debug\x86\Demo.exe
+D:\Code\ManagedTOM\bin\Debug\x86\Demo.pdb
+D:\Code\ManagedTOM\Demo\obj\x86\Debug\Demo.csproj.Up2Date
+D:\Code\ManagedTOM\Demo\obj\x86\Debug\Demo.exe
+D:\Code\ManagedTOM\Demo\obj\x86\Debug\Demo.pdb
